@@ -1,45 +1,81 @@
-<h3 align="left">Hi, i am Mariele Leiria!👋</h3>
+<div align="center">
+  <a href="#"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /></a>
+  <br />
+  <br />
+  <a href="#"><img height="50" alt="My Name is Mariele and I like to" src="assets/personal_note.svg" /></a>
+  <br />
+  <br />
+  
+  
 
-###
 
-<h4 align="left">I am a front-end developer student!</h4>
 
-###
+<table width="100%" align="center">
+<tr>
+  
+<td align="center">
+  <a href="https://youtu.be/BBJa32lCaaY?si=bfsL2aIrtkHMceUU">
+<strong>Program some things</strong>
+<br />
+<br />
+    
+ <p>
+<a href="#"><img alt="computer" height="100" width="110" src="assets/nela-gluhak-pc-3.gif"></a>
+</a>
+</p>
+</td>
+<td align="center">
+<a href="https://open.spotify.com/playlist/4Sn82x6JrJJZ1fTNcDq9BI?si=8j0ZtXgASvKdyMVWkCKoBg&pi=u-7qdBvaZAREy_">
+<strong>Listen to cool music</strong>
+<br />
+<br />
 
-<h2 align="left">About me</h2>
 
-###
+<p>
+<a href="#"><img height="100" width="130" alt="Music" src="assets/music.gif"></a> 
+</a>
+</p>
 
-<p align="left">I'm currently looking for a position as a trainee developer to improve my skills</p>
+</td>
+</tr>
+</table>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
+<br/>
+<br/>
+<p>
+<a href="#"><img height="50" alt="tech" src="assets/wordart.png" /></a>
+</p>
+<br>
+<p align="center">
+  <a href="#"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></a>
   <br>
-<div align="left">
-  <a href="https://www.linkedin.com/in/mariele-leiria-7ab450189/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mariele.edf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
-  </a>
-</div>
+  <a href="#"><img src="assets/fe36cc42774743.57ee5f329fae6.gif" width = "130" /></a>
+  <br>
+  <br>
+  
+  <a href="#"><img src = "https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
+  <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+ 
+</p>
+<br>
+<p>
+<a href="#"><img height="50" width="75%" alt="My Name is Mariele and I like to" src="assets/cooltext432034577445286.png" /></a>
+</p>
 
-###
+
+<br>
+<br>
+ 
+</p>
+<br>
+<p>
+  <a href="#"><img height="50" width="75%" alt="My Name is Mariele and I like to" src="assets/evilSnake.png" /></a>
+<p/>
+<p>
+<a href="#"><img height="100%" width="80%" alt="snake" src="assets/github-user-contribution (6).svg"></a> 
+</a>
+</p>
