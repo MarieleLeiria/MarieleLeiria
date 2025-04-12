@@ -23,17 +23,9 @@ I love turning ideas into beautiful, responsive web interfaces and learning some
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
-- 📧 Email: seuemail@email.com
+- 📧 Email: marieleleiria247@gmail.com
 
----
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House 😄
