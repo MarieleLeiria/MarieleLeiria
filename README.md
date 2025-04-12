@@ -25,7 +25,7 @@ I love turning ideas into beautiful, responsive web interfaces and learning some
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marieleleiria/)
 - 📧 Email: marieleleiria247@gmail.com
 
 
