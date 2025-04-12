@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am a front-end developer student!</h4>
+<h4 align="left">"I am a Systems Analysis and Development student with front-end skills! </h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently looking for a position as a trainee developer to improve my skills</p>
+<p align="left">I'm currently looking for an internship position as a developer to improve my skills and build real solutions with a team!</p>
 
 ###
 
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
 </div>
 
 ###
