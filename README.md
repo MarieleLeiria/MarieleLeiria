@@ -1,6 +1,5 @@
 # 👩‍💻 Hello, World! I'm Mariele Leiria👋
 
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY0bzV2amdvNW0xcTAyNmNyenB2ZXB0ZnBxajZ6Ync3NXplcGFmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4qxmDXm5RvWtnW/giphy.gif
 
 🎓 I'm a **Systems Analysis and Development** student  
 💻 Passionate about **Front-End Development**  
