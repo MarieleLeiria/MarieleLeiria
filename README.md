@@ -17,7 +17,6 @@ I love turning ideas into beautiful, responsive web interfaces and learning some
 ### 🛠️ Tech Stack
 
 - ⚛️ React.js
-- 🅰️ Angular
 - 🌐 HTML | 🎨 CSS | 🧠 JavaScript
 - 💡 Always curious about UX/UI and performance optimization
 
