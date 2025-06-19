@@ -3,7 +3,7 @@
 
 🎓 I'm a **Systems Analysis and Development** student  
 💻 Passionate about **Front-End Development**  
-🌱 Currently learning and building with  **React.js**, **Node.js**
+🌱 Currently learning and building with  **React.js**, **Node.js**, **Angular**
 
 ---
 
