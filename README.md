@@ -16,7 +16,7 @@ I love turning ideas into beautiful, responsive web interfaces and learning some
 
 ### 🛠️ Tech Stack
 
-- <img src="https://reactjs.org/logo-og.png" alt="React Logo" width="20"/> React.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo" width="20"/> React.js
 - <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="20"/> NestJS
 - 🌐 HTML | 🎨 CSS | 🧠 JavaScript
 - 💡 Always curious about UX/UI and performance optimization
