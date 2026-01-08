@@ -3,7 +3,7 @@
 
 🎓 I'm a **Systems Analysis and Development** student  
 💻 Passionate about **Development**  
-🌱 Currently learning and building with  **React.js**, **Node.js**, **Nest.js**, **Angular**
+🌱 Currently learning and building with  **React.js**, **Node.js**, **Nest.js**
 
 ---
 
@@ -17,7 +17,6 @@ I love turning ideas into code, responsive web interfaces and learning something
 ### 🛠️ Tech Stack
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="20"/> Node.js
 - <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="20"/> NestJS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular Logo" width="20"/> Angular
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo" width="20"/> React.js
 - 🌐 HTML | 🎨 CSS | 🧠 JavaScript
 - 💡 Always curious about UX/UI and performance optimization
