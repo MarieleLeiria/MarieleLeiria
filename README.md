@@ -1,31 +1,51 @@
-# 👩‍💻 Hello, World! I'm Mariele Leiria👋
+# 👩‍💻 Olá, eu sou a Mariele Leiria! 👋
 
-
-🎓 I'm a **Systems Analysis and Development** student  
-💻 Passionate about **Development**  
-🌱 Currently learning and building with  **React.js**, **Node.js**, **Nest.js**
-
----
-
-### 🚀 About Me
-
-I'm currently looking for an **internship position as a developer** to improve my skills and build real-world solutions with an awesome team!  
-I love turning ideas into code, responsive web interfaces and learning something new every day.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora Full Stack apaixonada por tecnologia, interfaces e soluções inteligentes  
+🚀 Atualmente trabalhando e estudando tecnologias modernas para desenvolvimento web e aplicações escaláveis  
 
 ---
 
-### 🛠️ Tech Stack
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="20"/> Node.js
-- <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="20"/> NestJS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo" width="20"/> React.js
-- 🌐 HTML | 🎨 CSS | 🧠 JavaScript
-- 💡 Always curious about UX/UI and performance optimization
+## 🚀 Sobre mim
+
+Sou desenvolvedora com experiência em aplicações web utilizando tecnologias modernas no front-end e back-end.  
+Tenho experiência profissional com desenvolvimento de interfaces, integração de APIs, manipulação de dados e criação de dashboards.
+
+Atualmente busco evoluir cada vez mais na área de desenvolvimento de software, participando de projetos que gerem impacto real e me desafiem tecnicamente.
+
+Além da tecnologia, gosto de aprender constantemente, trabalhar em equipe e transformar ideias em soluções funcionais.
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ Tecnologias & Ferramentas
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marieleleiria/)
-- 📧 Email: marieleleiria247@gmail.com
+### 💻 Front-end
+- ⚛️ React.js
+- ▲ Next.js
+- 🎨 HTML5
+- 🎨 CSS3
+- 🟨 JavaScript
+- 🔷 TypeScript
 
+### ⚙️ Back-end
+- 🟣 Node.js
+- 🛡️ NestJS
+- 🔵 C#
+- ⚙️ .NET
+- 🔗 APIs REST
 
+### 🗄️ Banco de Dados
+- 🐘 SQL
+- 🟢 Supabase
+
+## 📫 Contato
+
+💼 LinkedIn  
+👉 https://www.linkedin.com/in/marieleleiria/
+
+📧 Email  
+👉 marieleleiria247@gmail.com
+
+---
+
+⭐ Obrigada por visitar meu perfil!
